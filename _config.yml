@@ -1,27 +1,24 @@
 # Site settings
-name: John Smith
-description: "Nifty little description"
+name: Marvin Tse
+description: ""
 url: ""
 
 
 # Delete the lines you don't need
-email: your-email@example.domain
-github_username:  dashingcode
-twitter_username: your_twitter_username_goes_here
-medium_username:  your_medium_username_goes_here
+linkedin_username: marvtse
 # If you don't have a blog page delete the next line
-blog_url: "/blog"
+#blog_url: "/blog"
 
 
 avatar: yes
-#avatar_img_path: "imgs/avatar.jpg""
+avatar_img_path: "imgs/AAEAAQAAAAAAAAOnAAAAJDQ1MzQ4ZWMxLTFiMDEtNGU1NS05OTY1LTNkMzlhZjk2ZTA5Yw.jpg"
 # You can link to your GitHub image. That way it will get updated 
 # automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+#avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
 
 
 front_img: yes
-front_img_path: "imgs/background.jpg"
+front_img_path: "imgs/golden-gate-bridge-1081782_1920.jpg"
 #front_img_path: "https://external.url/image.jpg"
 
 # Build settings
